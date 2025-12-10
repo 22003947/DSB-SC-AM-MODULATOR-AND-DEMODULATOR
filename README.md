@@ -1,4 +1,4 @@
-<img width="737" height="1106" alt="516270964-d6a89056-16e3-47d7-8474-6dd7912059cf" src="https://github.com/user-attachments/assets/06933207-b883-47b6-ac7c-d97144161309" /># DSB-SC-AM-MODULATOR-AND-DEMODULATOR
+SC-AM-MODULATOR-AND-DEMODULATOR
 ## AIM:
 To write a program to perform DSBSC modulation and demodulation using SCI LAB and study its spectral characteristics
 
